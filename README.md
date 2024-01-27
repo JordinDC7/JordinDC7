@@ -16,10 +16,10 @@
 
 ### 🛠 Languages and Tools:
 
-- **Front-end:** ![React](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react) ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-- **Middleware:** ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp) ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net)
-- **Database:** ![SQL](https://img.shields.io/badge/-SQL-00000F?style=flat-square&logo=sqlite)
-- **Tools:** ![SSMS](https://img.shields.io/badge/-SSMS-CC2927?style=flat-square&logo=microsoftsqlserver) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git) ![Git Bash](https://img.shields.io/badge/-Git_Bash-4EAA25?style=flat-square&logo=gnu-bash) ![Ngrok](https://img.shields.io/badge/-Ngrok-1F1E37?style=flat-square&logo=ngrok) ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat-square&logo=visualstudio) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode)
+- **Front-end:** ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+- **Middleware:** ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
+- **Database:** ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=sqlite&logoColor=white)
+- **Tools:** ![SSMS](https://img.shields.io/badge/-SSMS-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Git Bash](https://img.shields.io/badge/-Git_Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![Ngrok](https://img.shields.io/badge/-Ngrok-1F1E37?style=flat-square&logo=ngrok&logoColor=white) ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ### 📊 My GitHub Stats:
 
@@ -29,4 +29,5 @@
 
 <!--- This is a comment in your README.md file
 JordinDC7/JordinDC7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You
+You can click the Preview link to take a look at your changes.
+--->
