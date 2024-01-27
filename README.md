@@ -24,8 +24,9 @@
 ### 📊 My GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JordinDC7&show_icons=true&theme=dark" alt="JordinDC7's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=JordinDC7&show_icons=true&theme=dark&count_private=true&include_all_commits=true&cache_seconds=1800" alt="JordinDC7's GitHub Stats">
 </p>
+
 
 <!--- This is a comment in your README.md file
 JordinDC7/JordinDC7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
