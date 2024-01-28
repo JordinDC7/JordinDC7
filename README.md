@@ -4,7 +4,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/7e02b738-b57b-44c2-9de0-75585f97319e.svg)](https://wakatime.com/@7e02b738-b57b-44c2-9de0-75585f97319e) 
 
-<img src="https://wakatime.com/share/@Jcamp97/2f959e6e-ec33-4654-841c-979bc658ad12.svg" width="300">
+<img src="https://wakatime.com/share/@Jcamp97/2f959e6e-ec33-4654-841c-979bc658ad12.svg" width="300"/>
 
 - 👀 I’m deeply passionate about **learning new things** and all things **software/tech**. I'm always curious and eager to dive into new projects and challenges. 🚀
 - 🌱 I’m currently on a journey to solidify my foundation in tech. I'm **working on FreeCodeCamp certifications** to reinforce my understanding of the fundamentals in software development.
