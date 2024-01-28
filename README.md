@@ -2,9 +2,10 @@
 
 <h2 align="center">🌟 Welcome to my GitHub profile! 🌟</h2>
 
-![WakaTime Stats](https://wakatime.com/share/@Jcamp97/900dde18-a518-415c-9c75-3aefee0aad69.svg)
 
-[![wakatime](https://wakatime.com/badge/user/7e02b738-b57b-44c2-9de0-75585f97319e.svg)](https://wakatime.com/@7e02b738-b57b-44c2-9de0-75585f97319e) 
+
+[![wakatime](https://wakatime.com/badge/user/7e02b738-b57b-44c2-9de0-75585f97319e.svg)](https://wakatime.com/@7e02b738-b57b-44c2-9de0-75585f97319e)  ![WakaTime Stats](https://wakatime.com/share/@Jcamp97/900dde18-a518-415c-9c75-3aefee0aad69.svg)
+
 
 <img src="https://wakatime.com/share/@Jcamp97/2f959e6e-ec33-4654-841c-979bc658ad12.svg" width="300"/>
 
