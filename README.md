@@ -8,10 +8,6 @@
 
 ![WakaTime Stats](https://wakatime.com/share/@Jcamp97/900dde18-a518-415c-9c75-3aefee0aad69.svg)
 
-<img src="https://wakatime.com/share/@Jcamp97/4d0f7752-f1b8-4b71-82b5-254c004ff702.svg" width="800" height="300" alt="wakatime">
-
-
-
 - 👀 I’m deeply passionate about **learning new things** and all things **software/tech**. I'm always curious and eager to dive into new projects and challenges. 🚀
 - 🌱 I’m currently on a journey to solidify my foundation in tech. I'm **working on FreeCodeCamp certifications** to reinforce my understanding of the fundamentals in software development.
 - 📫 **How to reach me:** 
