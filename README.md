@@ -2,9 +2,7 @@
 
 <h2 align="center">🌟 Welcome to my GitHub profile! 🌟</h2>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="240px" alt="Tech GIF">
-</p>
+[![wakatime](https://wakatime.com/badge/user/7e02b738-b57b-44c2-9de0-75585f97319e.svg)](https://wakatime.com/@7e02b738-b57b-44c2-9de0-75585f97319e)
 
 - 👀 I’m deeply passionate about **learning new things** and all things **software/tech**. I'm always curious and eager to dive into new projects and challenges. 🚀
 - 🌱 I’m currently on a journey to solidify my foundation in tech. I'm **working on FreeCodeCamp certifications** to reinforce my understanding of the fundamentals in software development.
