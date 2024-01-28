@@ -4,7 +4,7 @@
 
 
 
-[![wakatime](https://wakatime.com/badge/user/7e02b738-b57b-44c2-9de0-75585f97319e.svg)](https://wakatime.com/@7e02b738-b57b-44c2-9de0-75585f97319e) 
+[![wakatime](https://wakatime.com/badge/user/7e02b738-b57b-44c2-9de0-75585f97319e.svg)](https://wakatime.com/@7e02b738-b57b-44c2-9de0-75585f97319e) <--- (click to visit wakatime dashboard and see more stats!)
 
 <table align="center">
 <tr>
