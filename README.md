@@ -4,6 +4,8 @@
 
 [![wakatime](https://wakatime.com/badge/user/7e02b738-b57b-44c2-9de0-75585f97319e.svg)](https://wakatime.com/@7e02b738-b57b-44c2-9de0-75585f97319e) 
 
+![WakaTime](https://wakatime.com/insights/animated/days)
+
 - 👀 I’m deeply passionate about **learning new things** and all things **software/tech**. I'm always curious and eager to dive into new projects and challenges. 🚀
 - 🌱 I’m currently on a journey to solidify my foundation in tech. I'm **working on FreeCodeCamp certifications** to reinforce my understanding of the fundamentals in software development.
 - 📫 **How to reach me:** 
