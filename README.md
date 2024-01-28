@@ -9,7 +9,7 @@
 
 <p align="center">
   <img src="https://wakatime.com/share/@Jcamp97/2f959e6e-ec33-4654-841c-979bc658ad12.svg" width="300" style="display: inline-block; margin-right: 10px;"/>
-  <img src="https://wakatime.com/share/@Jcamp97/900dde18-a518-415c-9c75-3aefee0aad69.svg" width="300" style="display: inline-block;"/>
+   ![WakaTime Stats](https://wakatime.com/share/@Jcamp97/900dde18-a518-415c-9c75-3aefee0aad69.svg)
 </p>
 
 - 👀 I’m deeply passionate about **learning new things** and all things **software/tech**. I'm always curious and eager to dive into new projects and challenges. 🚀
